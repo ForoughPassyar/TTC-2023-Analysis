@@ -18,6 +18,7 @@ Analyze:
 
 ```sql
 SELECT AVG(min_delay) AS average_delay
+
 FROM ‘new-data-projects.TTC_data.ttc-bus-delay-data-2023’ 
 ```
 
