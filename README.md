@@ -123,6 +123,9 @@ Share:
 
 
 
+
+
+
 Act:
 
 Based on the data I analyzed, there were a series of insights that could be used to target pain points within the operations of the TTC, which if dealt with could save time and therefore money. 
