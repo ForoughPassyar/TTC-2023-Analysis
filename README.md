@@ -24,7 +24,7 @@ FROM ‘new-data-projects.TTC_data.ttc-bus-delay-data-2023’
 
 
 --This query is retrieving the unique types of incidents, which is 13.
-```
+```sql
 SELECT
 
     COUNT(DISTINCT incident) AS unique_incident_count
