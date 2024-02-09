@@ -36,7 +36,7 @@ SELECT
 
 --This code looks for the daily delay trends.
 
-```
+```sql
 SELECT Date,
 
     AVG(min_delay) AS total_delay_time
@@ -53,7 +53,7 @@ ORDER BY
 
 --This code looks at the average delay per direction.
 
-```
+```sql
 SELECT
     direction,
    
@@ -68,7 +68,7 @@ GROUP BY
 
 --This query looks at the average delay per route.
 
-```
+```sql
 SELECT
     route,
 
@@ -84,7 +84,7 @@ GROUP BY
 
 --This query looks at the vehicles with the maximum delay.
 
-```
+```sql
 SELECT 
   Vehicle,
 
@@ -105,7 +105,7 @@ LIMIT 10;
 
 --The next query looks at incident count based on incident type.
 
-```
+```sql
 SELECT Incident as incident_type,
 
     COUNT(*) as incident_count
