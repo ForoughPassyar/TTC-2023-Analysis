@@ -1,5 +1,13 @@
 # TTC-2023-Analysis
 
+
+
+[<img src="TTC_2023_Dashboard.png">](https://public.tableau.com/app/profile/forough.passyar5180/viz/TTC2023Dashboard/TTC2023Dashboard/) 
+
+
+
+
+
 Ask: 
 
 Toronto Transit Commission (TTC), operated by the City of Toronto, has provided safe and convenient transportation services across the Greater Toronto Area for over 100 years. Having provided service to over 31 billion customers, the TTC is a vital part of the fabric of Toronto and allows people to get to where they need to go. They make traveling safe and easy. With the increased expense budget of 2.6 billion for the 2024 year, there is ample opportunity to target areas of improvement within the TTC. This project will examine the bus delay data from the year 2023 to target pain points that could make the operational processes more efficient, which in turn will save time and money for the TTC. 
