@@ -124,16 +124,6 @@ GROUP BY Incident;
 ```
 
 
-Share:
-
-
-<iframe src="https://public.tableau.com/app/profile/forough.passyar5180/viz/TTC2023Dashboard/TTC2023Dashboard" width="2250" height="1260"></iframe>
-
-
-
-
-
-
 Act:
 
 Based on the data I analyzed, there were a series of insights that could be used to target pain points within the operations of the TTC, which if dealt with could save time and therefore money. 
